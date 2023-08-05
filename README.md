@@ -1,9 +1,13 @@
 # image-search-app
-Create by **HTML5**, **CSS3** and **vanilla JavaScript**
 
 An image search app that lets you search for any desired image. You can enter your search query and receive results accompanied by a description.
 
-Using the **Unsplash API**, the app fetches up to 1000 unique and non-repetitive images.
+## Features
+- Search for Images: Enter keywords to search for images on various topics.
+- Display Results: View a collection of images related to your search.
+- Descriptions: Each image comes with a description to provide context.
 
-### Image Search App Project Live Demo 
-[![](https://cdn-icons-png.flaticon.com/128/5129/5129535.png)](https://image-search-app-ecru.vercel.app/)
+
+## Demo 
+A live demo of the calculator app is available [here](https://image-search-app-ecru.vercel.app/). Try it out!
+
