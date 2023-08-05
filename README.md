@@ -9,5 +9,5 @@ An image search app that lets you search for any desired image. You can enter yo
 
 
 ## Demo 
-A live demo of the calculator app is available [here](https://image-search-app-ecru.vercel.app/). Try it out!
+A live demo of the image search app is available [here](https://image-search-app-ecru.vercel.app/). Try it out!
 
